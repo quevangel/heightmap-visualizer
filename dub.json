@@ -1,0 +1,13 @@
+{
+	"authors": [
+		"quevangel"
+	],
+	"copyright": "Copyright © 2019, quevangel",
+	"dependencies": {
+		"derelict-gl3": "~>2.0.0-beta",
+		"derelict-sdl2": "~>3.0.0-beta"
+	},
+	"description": "A simple heightmap visualizer written in D.",
+	"license": "TODO",
+	"name": "heightmap-visualizer"
+}

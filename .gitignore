@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/heightmap-visualizer
+heightmap-visualizer.so
+heightmap-visualizer.dylib
+heightmap-visualizer.dll
+heightmap-visualizer.a
+heightmap-visualizer.lib
+heightmap-visualizer-test-*
+*.exe
+*.o
+*.obj
+*.lst
